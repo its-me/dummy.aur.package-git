@@ -1,6 +1,6 @@
 pkgbase = package-git
 	pkgdesc = Dummy package used to exercise the aur-workflow CI/publish pipeline (tracks git commits)
-	pkgver = v0.1.5.r1.g1d4a313
+	pkgver = v0.1.5.r2.gf096e34
 	pkgrel = 1
 	url = https://github.com/its-me/dummy.releases
 	arch = any
